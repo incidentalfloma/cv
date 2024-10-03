@@ -61,7 +61,8 @@ content:
 - layout: top-middle
 title: Climate Health/Sustainability & Radiology
 link: https://www.aur.org/cerraf-fellows-and-research-projects
-quote: > Ongoing work.
+quote: > 
+Ongoing work.
 description: | # this will include new lines to allow paragraphs
 Partially funded by <mark>MACCHE</mark> and <mark>AAR CERRAF</mark> grants.
 Relevant publications:
@@ -73,7 +74,8 @@ Relevant publications:
 - layout: top-middle
 title: Clinical/Translational Artificial Intelligence
 link: https://www.umms.org/ummc/innovation-challenge/awardees/2023-awardees
-quote: > Ongoing work.
+quote: > 
+Ongoing work.
 description: | # this will include new lines to allow paragraphs
 Partially funded by <mark>UMMC Innovation Challenge</mark> grant, including large language model (LLM) research.
 Relevant publications:
