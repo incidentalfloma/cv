@@ -61,8 +61,7 @@ content:
 - layout: top-middle
 title: Climate Health/Sustainability & Radiology
 link: https://www.aur.org/cerraf-fellows-and-research-projects
-description: | # this will include new lines to allow paragraphs
-Partially funded by <mark>MACCHE</mark> and <mark>AAR CERRAF</mark> grants.
+description: Partially funded by <mark>MACCHE</mark> and <mark>AAR CERRAF</mark> grants.
 Relevant publications:
 * [https://pubs.rsna.org/doi/abs/10.1148/radiol.240320]({% Optimal Large Language Model Characteristics to Balance Accuracy and Energy Use for Sustainable Medical Applications %})
 * [https://www.jacr.org/article/S1546-1440(23)00960-2/abstract]({% Evaluation of Climate-Aware Metrics Tools for Radiology Informatics and Artificial Intelligence: Toward a Potential Radiology Ecolabel %})
@@ -72,8 +71,7 @@ Relevant publications:
 - layout: top-middle
 title: Clinical/Translational Artificial Intelligence
 link: https://www.umms.org/ummc/innovation-challenge/awardees/2023-awardees
-description: | # this will include new lines to allow paragraphs
-Partially funded by <mark>UMMC Innovation Challenge</mark> grant, including large language model (LLM) research.
+description: Partially funded by <mark>UMMC Innovation Challenge</mark> grant, including large language model (LLM) research.
 Relevant publications:
           
 * [https://www.jacr.org/article/S1546-1440(23)00516-1/abstract]({% Exploring the Clinical Translation of Generative Models Like ChatGPT: Promise and Pitfalls in Radiology, From Patients to Population Health %})
