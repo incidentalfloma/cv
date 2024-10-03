@@ -55,12 +55,12 @@ about_content: | # this will include new lines to allow paragraphs
   Research focuses on: <mark>Clinical Artificial Intelligence</mark>, <mark>Climate Health</mark>, and <mark>Sustainability</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Climate Health/Sustainability & Radiology
-        link: https://www.aur.org/cerraf-fellows-and-research-projects
+- title: Projects # Title for the section
+layout: list # Type of content section (list/text)
+content:
+- layout: top-middle
+      title: Climate Health/Sustainability & Radiology
+      link: https://www.aur.org/cerraf-fellows-and-research-projects
         # link_text: Project Website
         # additional_links:
           # - title:  sproogen/modern-resume-theme
