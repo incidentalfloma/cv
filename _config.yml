@@ -7,9 +7,10 @@ version: 2
 
 # Personal info
 name: Florence (Flo) Doo, MD MA
-title: "Abdominal Radiologist &\nClimate Health/Artificial Intelligence Researcher"
+title: |
+  Abdominal Radiologist &
+  Climate Health/Artificial Intelligence Researcher
 email: fdoo@som.umaryland.edu
-website: https://www.medschool.umaryland.edu/profiles/doo-florence-xini/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -17,33 +18,21 @@ darkmode: true
 # Social links
 twitter_username: flo_doo
 github_username: incidentalfloma
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
 linkedin_username: flodoo
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
 orcid_username: 0000-0001-6519-5222
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/FloDoo_photo.png
 about_content: | 
-  Assistant Professor in the Dept of Radiology and Nuclear Medicine  
-  Faculty at the University of Maryland-Institute for Health Computing (UM-IHC)  
-  Director of Innovation at the University of Maryland Medical Intelligent Imaging (UM2ii) Center
+  - Assistant Professor in the [Dept of Radiology and Nuclear Medicine](https://www.medschool.umaryland.edu/profiles/doo-florence-xini/)
+  - Faculty at the [University of Maryland-Institute for Health Computing (UM-IHC)](https://www.ihc.umd.edu/)
+  - Director of Innovation at the [University of Maryland Medical Intelligent Imaging (UM2ii) Center](https://www.medschool.umaryland.edu/um2ii/)
 
-  Research focuses on: <mark>Clinical Artificial Intelligence</mark>, <mark>Climate Health</mark>, and <mark>Sustainability</mark>
+  As a physician innovator, her current research interests include translating technologies into clinical patient benefit, with a focus on sustainable AI and global health/climate change impacts.
+
+
 
 content:
   - title: Projects
