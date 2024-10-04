@@ -32,19 +32,16 @@ about_content: |
 
   As a physician innovator, my current research interests include translating technologies into clinical patient benefit, with a focus on sustainable AI and global health/climate change impacts.
 
-
-
 content:
   - title: Projects
     layout: list
     content:
       - layout: left
         title: Sustainability & Climate Health
-        link: https://www.aur.org/cerraf-fellows-and-research-projects
         description: |
-          Explore radiology’s (+radiology AI's) role in promoting sustainability within healthcare, to improve health outcomes. 
+          Explore radiology’s (+radiology AI's) role in promoting sustainability within healthcare, to improve health outcomes.
           
-          Funding: In part by <mark>Johns Hopkins MACCHE</mark> and <mark>AAR CERRAF</mark> grants.
+          Funding: In part by <mark><a href="https://www.jhumacche.org/investigator-development-core" target="_blank">Johns Hopkins MACCHE</a></mark> and <mark><a href="https://www.aur.org/cerraf-fellows-and-research-projects" target="_blank">AAR CERRAF</a></mark> grants.
 
           Relevant publications:
           - [Optimal Large Language Model Characteristics to Balance Accuracy and Energy Use for Sustainable Medical Applications](https://pubs.rsna.org/doi/abs/10.1148/radiol.240320)
@@ -54,11 +51,10 @@ content:
 
       - layout: left
         title: Clinical/Translational Artificial Intelligence
-        link: https://www.umms.org/ummc/innovation-challenge/awardees/2023-awardees
         description: |
           Translate clinical AI tools & large language models (LLMs) for clinical use, focusing on patients & sociotechnical determinants of health.
           
-          Funding: In part by <mark>UMMC Innovation Challenge</mark>.
+          Funding: In part by <mark><a href="https://www.umms.org/ummc/innovation-challenge/awardees/2023-awardees" target="_blank">2024-2025 UMMC Innovation Challenge</a></mark>.
 
           Relevant publications:
           - [Exploring the Clinical Translation of Generative Models Like ChatGPT: Promise and Pitfalls in Radiology, From Patients to Population Health](https://www.jacr.org/article/S1546-1440(23)00516-1/abstract)
