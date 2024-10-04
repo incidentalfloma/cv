@@ -49,24 +49,26 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: Climate Health/Sustainability & Radiology
         link: https://www.aur.org/cerraf-fellows-and-research-projects
+        sub_title: Project funded by MACCHE and AAR CERRAF grants
         description: |
-          Partially funded by <mark>MACCHE</mark> and <mark>AAR CERRAF</mark> grants.
-          
+          This project focuses on the intersection of radiology and climate health, with the goal of promoting sustainability in medical imaging.
+
           Relevant publications:
           - [Optimal Large Language Model Characteristics to Balance Accuracy and Energy Use for Sustainable Medical Applications](https://pubs.rsna.org/doi/abs/10.1148/radiol.240320)
           - [Evaluation of Climate-Aware Metrics Tools for Radiology Informatics and Artificial Intelligence: Toward a Potential Radiology Ecolabel](https://www.jacr.org/article/S1546-1440(23)00960-2/abstract)
           - [Planetary Health and Radiology: Why We Should Care and What We Can Do](https://pubs.rsna.org/doi/epdf/10.1148/radiol.240219)
           - [Economic and Environmental Costs of Cloud Technologies for Medical Imaging and Radiology Artificial Intelligence](https://www.jacr.org/article/S1546-1440(23)00934-1/abstract)
 
-      - layout: top-middle
+      - layout: left
         title: Clinical/Translational Artificial Intelligence
         link: https://www.umms.org/ummc/innovation-challenge/awardees/2023-awardees
+        sub_title: Project funded by UMMC Innovation Challenge
         description: |
-          Partially funded by <mark>UMMC Innovation Challenge</mark> grant, including large language model (LLM) research.
-          
+          This project aims to explore the applications of large language models (LLMs) in radiology and their potential to improve clinical outcomes and equity in healthcare.
+
           Relevant publications:
           - [Exploring the Clinical Translation of Generative Models Like ChatGPT: Promise and Pitfalls in Radiology, From Patients to Population Health](https://www.jacr.org/article/S1546-1440(23)00516-1/abstract)
           - [Building Diversity, Equity, and Inclusion Within Radiology Artificial Intelligence: Representation Matters, From Data to the Workforce](https://www.jacr.org/article/S1546-1440(23)00506-9/abstract)
