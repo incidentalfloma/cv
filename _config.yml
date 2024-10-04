@@ -29,15 +29,6 @@ linkedin_username: flodoo
 # googleplus_username: +jekyll
 orcid_username: 0000-0001-6519-5222
 
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
@@ -47,38 +38,37 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/FloDoo_photo.png
-about_content: | # this will include new lines to allow paragraphs
-  Assistant Professor in the Dept of Radiology and Nuclear Medicine
-  Faculty at the University of Maryland-Institute for Health Computing (UM-IHC)
+about_content: | 
+  Assistant Professor in the Dept of Radiology and Nuclear Medicine  
+  Faculty at the University of Maryland-Institute for Health Computing (UM-IHC)  
   Director of Innovation at the University of Maryland Medical Intelligent Imaging (UM2ii) Center
 
   Research focuses on: <mark>Clinical Artificial Intelligence</mark>, <mark>Climate Health</mark>, and <mark>Sustainability</mark>
 
 content:
-- title: Projects # Title for the section
-layout: list # Type of content section (list/text)
-content:
-- layout: top-middle
-title: Climate Health/Sustainability & Radiology
-link: https://www.aur.org/cerraf-fellows-and-research-projects
-description: Partially funded by <mark>MACCHE</mark> and <mark>AAR CERRAF</mark> grants.
-Relevant publications:
-* [https://pubs.rsna.org/doi/abs/10.1148/radiol.240320]({% Optimal Large Language Model Characteristics to Balance Accuracy and Energy Use for Sustainable Medical Applications %})
-* [https://www.jacr.org/article/S1546-1440(23)00960-2/abstract]({% Evaluation of Climate-Aware Metrics Tools for Radiology Informatics and Artificial Intelligence: Toward a Potential Radiology Ecolabel %})
-* [https://pubs.rsna.org/doi/epdf/10.1148/radiol.240219]({% Planetary Health and Radiology: Why We Should Care and What We Can Do %})
-* [https://www.jacr.org/article/S1546-1440(23)00934-1/abstract]({% Economic and Environmental Costs of Cloud Technologies for Medical Imaging and Radiology Artificial Intelligence %})
+  - title: Projects
+    layout: list
+    items:
+      - title: Climate Health/Sustainability & Radiology
+        layout: top-middle
+        link: https://www.aur.org/cerraf-fellows-and-research-projects
+        description: Partially funded by <mark>MACCHE</mark> and <mark>AAR CERRAF</mark> grants.
+        publications:
+          - [Optimal Large Language Model Characteristics to Balance Accuracy and Energy Use for Sustainable Medical Applications](https://pubs.rsna.org/doi/abs/10.1148/radiol.240320)
+          - [Evaluation of Climate-Aware Metrics Tools for Radiology Informatics and Artificial Intelligence: Toward a Potential Radiology Ecolabel](https://www.jacr.org/article/S1546-1440(23)00960-2/abstract)
+          - [Planetary Health and Radiology: Why We Should Care and What We Can Do](https://pubs.rsna.org/doi/epdf/10.1148/radiol.240219)
+          - [Economic and Environmental Costs of Cloud Technologies for Medical Imaging and Radiology Artificial Intelligence](https://www.jacr.org/article/S1546-1440(23)00934-1/abstract)
 
-- layout: top-middle
-title: Clinical/Translational Artificial Intelligence
-link: https://www.umms.org/ummc/innovation-challenge/awardees/2023-awardees
-description: Partially funded by <mark>UMMC Innovation Challenge</mark> grant, including large language model (LLM) research.
-Relevant publications:
-          
-* [https://www.jacr.org/article/S1546-1440(23)00516-1/abstract]({% Exploring the Clinical Translation of Generative Models Like ChatGPT: Promise and Pitfalls in Radiology, From Patients to Population Health %})
-* [https://www.jacr.org/article/S1546-1440(23)00506-9/abstract]({% Building Diversity, Equity, and Inclusion Within Radiology Artificial Intelligence: Representation Matters, From Data to the Workforce %})
-* [https://pubmed.ncbi.nlm.nih.gov/35964688/]({% Predicting Patient Demographics From Chest Radiographs With Deep Learning %})
-* [https://ajronline.org/doi/10.2214/AJR.23.30573]({% General-Purpose Large Language Models Versus a Domain-Specific Natural Language Processing Tool for Label Extraction From Chest Radiograph Reports %})
-          
+      - title: Clinical/Translational Artificial Intelligence
+        layout: top-middle
+        link: https://www.umms.org/ummc/innovation-challenge/awardees/2023-awardees
+        description: Partially funded by <mark>UMMC Innovation Challenge</mark> grant, including large language model (LLM) research.
+        publications:
+          - [Exploring the Clinical Translation of Generative Models Like ChatGPT: Promise and Pitfalls in Radiology, From Patients to Population Health](https://www.jacr.org/article/S1546-1440(23)00516-1/abstract)
+          - [Building Diversity, Equity, and Inclusion Within Radiology Artificial Intelligence: Representation Matters, From Data to the Workforce](https://www.jacr.org/article/S1546-1440(23)00506-9/abstract)
+          - [Predicting Patient Demographics From Chest Radiographs With Deep Learning](https://pubmed.ncbi.nlm.nih.gov/35964688/)
+          - [General-Purpose Large Language Models Versus a Domain-Specific Natural Language Processing Tool for Label Extraction From Chest Radiograph Reports](https://ajronline.org/doi/10.2214/AJR.23.30573)
+
 # Footer
 # footer_show_references: true
 # references_title: References on request
@@ -91,6 +81,6 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
 # https://github.com/sproogen/modern-resume-theme/blob/master/_config.yml
