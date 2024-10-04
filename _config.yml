@@ -48,24 +48,30 @@ about_content: |
 content:
   - title: Projects
     layout: list
-    items:
-      - title: Climate Health/Sustainability & Radiology
+    content:
+      - layout: top-middle
+        title: Climate Health/Sustainability & Radiology
         link: https://www.aur.org/cerraf-fellows-and-research-projects
-        description: Partially funded by <mark>MACCHE</mark> and <mark>AAR CERRAF</mark> grants.
-        publications:
-          - "[Optimal Large Language Model Characteristics to Balance Accuracy and Energy Use for Sustainable Medical Applications](https://pubs.rsna.org/doi/abs/10.1148/radiol.240320)"
-          - "[Evaluation of Climate-Aware Metrics Tools for Radiology Informatics and Artificial Intelligence: Toward a Potential Radiology Ecolabel](https://www.jacr.org/article/S1546-1440(23)00960-2/abstract)"
-          - "[Planetary Health and Radiology: Why We Should Care and What We Can Do](https://pubs.rsna.org/doi/epdf/10.1148/radiol.240219)"
-          - "[Economic and Environmental Costs of Cloud Technologies for Medical Imaging and Radiology Artificial Intelligence](https://www.jacr.org/article/S1546-1440(23)00934-1/abstract)"
+        description: |
+          Partially funded by <mark>MACCHE</mark> and <mark>AAR CERRAF</mark> grants.
+          
+          Relevant publications:
+          - [Optimal Large Language Model Characteristics to Balance Accuracy and Energy Use for Sustainable Medical Applications](https://pubs.rsna.org/doi/abs/10.1148/radiol.240320)
+          - [Evaluation of Climate-Aware Metrics Tools for Radiology Informatics and Artificial Intelligence: Toward a Potential Radiology Ecolabel](https://www.jacr.org/article/S1546-1440(23)00960-2/abstract)
+          - [Planetary Health and Radiology: Why We Should Care and What We Can Do](https://pubs.rsna.org/doi/epdf/10.1148/radiol.240219)
+          - [Economic and Environmental Costs of Cloud Technologies for Medical Imaging and Radiology Artificial Intelligence](https://www.jacr.org/article/S1546-1440(23)00934-1/abstract)
 
-      - title: Clinical/Translational Artificial Intelligence
+      - layout: top-middle
+        title: Clinical/Translational Artificial Intelligence
         link: https://www.umms.org/ummc/innovation-challenge/awardees/2023-awardees
-        description: Partially funded by <mark>UMMC Innovation Challenge</mark> grant, including large language model (LLM) research.
-        publications:
-          - "[Exploring the Clinical Translation of Generative Models Like ChatGPT: Promise and Pitfalls in Radiology, From Patients to Population Health](https://www.jacr.org/article/S1546-1440(23)00516-1/abstract)"
-          - "[Building Diversity, Equity, and Inclusion Within Radiology Artificial Intelligence: Representation Matters, From Data to the Workforce](https://www.jacr.org/article/S1546-1440(23)00506-9/abstract)"
-          - "[Predicting Patient Demographics From Chest Radiographs With Deep Learning](https://pubmed.ncbi.nlm.nih.gov/35964688/)"
-          - "[General-Purpose Large Language Models Versus a Domain-Specific Natural Language Processing Tool for Label Extraction From Chest Radiograph Reports](https://ajronline.org/doi/10.2214/AJR.23.30573)"
+        description: |
+          Partially funded by <mark>UMMC Innovation Challenge</mark> grant, including large language model (LLM) research.
+          
+          Relevant publications:
+          - [Exploring the Clinical Translation of Generative Models Like ChatGPT: Promise and Pitfalls in Radiology, From Patients to Population Health](https://www.jacr.org/article/S1546-1440(23)00516-1/abstract)
+          - [Building Diversity, Equity, and Inclusion Within Radiology Artificial Intelligence: Representation Matters, From Data to the Workforce](https://www.jacr.org/article/S1546-1440(23)00506-9/abstract)
+          - [Predicting Patient Demographics From Chest Radiographs With Deep Learning](https://pubmed.ncbi.nlm.nih.gov/35964688/)
+          - [General-Purpose Large Language Models Versus a Domain-Specific Natural Language Processing Tool for Label Extraction From Chest Radiograph Reports](https://ajronline.org/doi/10.2214/AJR.23.30573)
 
 # Footer
 # footer_show_references: true
