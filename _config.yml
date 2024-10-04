@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Florence (Flo) Doo, MD MA
-title: Abdominal Radiologist & Climate Health/Artificial Intelligence Researcher
+title: Abdominal Radiologist &<br>Climate Health/Artificial Intelligence Researcher
 email: fdoo@som.umaryland.edu
 website: https://www.medschool.umaryland.edu/profiles/doo-florence-xini/
 
@@ -50,7 +50,6 @@ content:
     layout: list
     items:
       - title: Climate Health/Sustainability & Radiology
-        layout: top-middle
         link: https://www.aur.org/cerraf-fellows-and-research-projects
         description: Partially funded by <mark>MACCHE</mark> and <mark>AAR CERRAF</mark> grants.
         publications:
@@ -60,7 +59,6 @@ content:
           - "[Economic and Environmental Costs of Cloud Technologies for Medical Imaging and Radiology Artificial Intelligence](https://www.jacr.org/article/S1546-1440(23)00934-1/abstract)"
 
       - title: Clinical/Translational Artificial Intelligence
-        layout: top-middle
         link: https://www.umms.org/ummc/innovation-challenge/awardees/2023-awardees
         description: Partially funded by <mark>UMMC Innovation Challenge</mark> grant, including large language model (LLM) research.
         publications:
