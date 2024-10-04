@@ -17,7 +17,7 @@ darkmode: true
 
 # Social links
 twitter_username: flo_doo
-github_username: incidentalfloma
+# github_username: incidentalfloma
 linkedin_username: flodoo
 orcid_username: 0000-0001-6519-5222
 
@@ -44,10 +44,10 @@ content:
           Funding: In part by <mark><a href="https://www.jhumacche.org/investigator-development-core" target="_blank">Johns Hopkins MACCHE</a></mark> and <mark><a href="https://www.aur.org/cerraf-fellows-and-research-projects" target="_blank">AAR CERRAF</a></mark> grants.
 
           Relevant publications:
-          - [Optimal Large Language Model Characteristics to Balance Accuracy and Energy Use for Sustainable Medical Applications](https://pubs.rsna.org/doi/abs/10.1148/radiol.240320)
-          - [Evaluation of Climate-Aware Metrics Tools for Radiology Informatics and Artificial Intelligence: Toward a Potential Radiology Ecolabel](https://www.jacr.org/article/S1546-1440(23)00960-2/abstract)
-          - [Planetary Health and Radiology: Why We Should Care and What We Can Do](https://pubs.rsna.org/doi/epdf/10.1148/radiol.240219)
-          - [Economic and Environmental Costs of Cloud Technologies for Medical Imaging and Radiology Artificial Intelligence](https://www.jacr.org/article/S1546-1440(23)00934-1/abstract)
+          - PMID: 39189909 [Optimal Large Language Model Characteristics to Balance Accuracy and Energy Use for Sustainable Medical Applications](https://pubs.rsna.org/doi/abs/10.1148/radiol.240320)
+          - PMID: 38043630 [Evaluation of Climate-Aware Metrics Tools for Radiology Informatics and Artificial Intelligence: Toward a Potential Radiology Ecolabel](https://www.jacr.org/article/S1546-1440(23)00960-2/abstract)
+          - PMID: 38652030 [Planetary Health and Radiology: Why We Should Care and What We Can Do](https://pubs.rsna.org/doi/epdf/10.1148/radiol.240219)
+          - PMID: 38072221 [Economic and Environmental Costs of Cloud Technologies for Medical Imaging and Radiology Artificial Intelligence](https://www.jacr.org/article/S1546-1440(23)00934-1/abstract)
 
       - layout: left
         title: Clinical/Translational Artificial Intelligence
@@ -57,10 +57,10 @@ content:
           Funding: In part by <mark><a href="https://www.umms.org/ummc/innovation-challenge/awardees/2023-awardees" target="_blank">2024-2025 UMMC Innovation Challenge</a></mark>.
 
           Relevant publications:
-          - [Exploring the Clinical Translation of Generative Models Like ChatGPT: Promise and Pitfalls in Radiology, From Patients to Population Health](https://www.jacr.org/article/S1546-1440(23)00516-1/abstract)
-          - [Building Diversity, Equity, and Inclusion Within Radiology Artificial Intelligence: Representation Matters, From Data to the Workforce](https://www.jacr.org/article/S1546-1440(23)00506-9/abstract)
-          - [Predicting Patient Demographics From Chest Radiographs With Deep Learning](https://pubmed.ncbi.nlm.nih.gov/35964688/)
-          - [General-Purpose Large Language Models Versus a Domain-Specific Natural Language Processing Tool for Label Extraction From Chest Radiograph Reports](https://ajronline.org/doi/10.2214/AJR.23.30573)
+          - PMID: 37467871 [Exploring the Clinical Translation of Generative Models Like ChatGPT: Promise and Pitfalls in Radiology, From Patients to Population Health](https://www.jacr.org/article/S1546-1440(23)00516-1/abstract)
+          - PMID: 37453602 [Building Diversity, Equity, and Inclusion Within Radiology Artificial Intelligence: Representation Matters, From Data to the Workforce](https://www.jacr.org/article/S1546-1440(23)00506-9/abstract)
+          - PMID: 35964688 [Predicting Patient Demographics From Chest Radiographs With Deep Learning](https://pubmed.ncbi.nlm.nih.gov/35964688/)
+          - PMID: 38230901 [General-Purpose Large Language Models Versus a Domain-Specific Natural Language Processing Tool for Label Extraction From Chest Radiograph Reports](https://ajronline.org/doi/10.2214/AJR.23.30573)
 
 # Footer
 # footer_show_references: true
