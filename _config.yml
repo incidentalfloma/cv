@@ -52,9 +52,9 @@ content:
       - layout: left
         title: Climate Health/Sustainability & Radiology
         link: https://www.aur.org/cerraf-fellows-and-research-projects
-        sub_title: Project funded by MACCHE and AAR CERRAF grants
         description: |
-          This project focuses on the intersection of radiology and climate health, with the goal of promoting sustainability in medical imaging.
+          Explore radiology’s (+radiology AI's) role in promoting sustainability within healthcare, to improve health outcomes. 
+          Partly funded by <mark>Johns Hopkins MACCHE</mark> and <mark>AAR CERRAF</mark> grants.
 
           Relevant publications:
           - [Optimal Large Language Model Characteristics to Balance Accuracy and Energy Use for Sustainable Medical Applications](https://pubs.rsna.org/doi/abs/10.1148/radiol.240320)
@@ -65,9 +65,9 @@ content:
       - layout: left
         title: Clinical/Translational Artificial Intelligence
         link: https://www.umms.org/ummc/innovation-challenge/awardees/2023-awardees
-        sub_title: Project funded by UMMC Innovation Challenge
         description: |
-          This project aims to explore the applications of large language models (LLMs) in radiology and their potential to improve clinical outcomes and equity in healthcare.
+          Translate clinical AI tools & large language models (LLMs) for clinical use, focusing on patients & sociotechnical determinants of health.
+          Partly funded by <mark>UMMC Innovation Challenge</mark>.
 
           Relevant publications:
           - [Exploring the Clinical Translation of Generative Models Like ChatGPT: Promise and Pitfalls in Radiology, From Patients to Population Health](https://www.jacr.org/article/S1546-1440(23)00516-1/abstract)
